@@ -1,0 +1,80 @@
+* {
+    background-color: antiquewhite;}
+    .cuerpo{
+        margin: 500px;px;
+        width: 850px;
+    }
+.bandera{
+    background-color: brown;
+    width: 400px;
+    height: 250px;
+    border-radius: 15px;
+}
+.banderita{
+    border-radius: 15px;
+}
+.cuadro{
+    background-color: black;
+    width: 400px;
+    height: 250px;
+    border-radius: 15px;
+}
+.verde{
+    background-color: greenyellow;
+    width: 40px;
+    height: 200px;
+}
+.blanco{
+    background-color:white;
+    width: 40px;
+    height: 175px;
+}
+.rojo{
+    background-color: red;
+    width: 40px;
+    height: 145px;
+}
+.cuadro{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+    
+}
+.goles{
+    width: 500px;
+    height: 80px;
+    background-color: brown;
+    border-radius: 15px;
+}
+.goles{
+    display: flex;
+    align-items: center;
+    justify-content: space-around
+}
+.marruecos{
+    background-color: brown;
+    width: 70px;
+    height: 45px;
+    }
+.red{
+    background-color: brown;
+    width: 70px;
+    height: 15px;
+}
+.white{
+    background-color: white;
+    width: 70px;
+    height: 15px;
+}
+.azul{
+    background-color: blue;
+    width: 70px;
+    height: 15px;
+}
+    
+.murio{
+    justify-content: flex-start;
+    display:flex ;
+    justify-content: flex-start;
+}
